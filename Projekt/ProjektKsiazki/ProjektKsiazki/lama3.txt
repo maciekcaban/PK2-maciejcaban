@@ -1,0 +1,13 @@
+K;marcin;nowak;nie boska komedia;x;spoleczny;wspip;-1;1915;2;2001;6;brak;59;
+K;marcin;nowak;nie boska komedia;x;spoleczny;wspip;-1;1915;2;2001;6;brak;59;
+K;marcin;nowak;nie boska komedia;x;spoleczny;wspip;-1;1915;2;2001;6;brak;59;
+K;marcin;nowak;nie boska komedia;x;spoleczny;wspip;-1;1915;2;2001;6;brak;52;
+K;maciek;nowak;nie boska komedia;dramat;spoleczny;wspip;12;1915;2;2001;6;brak;51;
+K;kacper;nowak;nie boska komedia;x;spoleczny;wspip;-1;1915;2;2001;6;brak;51;
+K;marcin;nowak;nie boska komedia;x;spoleczny;wspip;-1;1915;2;2001;6;brak;51;
+K;patryk;nowak;nie boska komedia;x;spoleczny;wspip;-1;1915;2;2001;6;brak;51;
+K;adam;nowak;nie boska komedia;x;spoleczny;wspip;-1;1915;2;2001;6;brak;56;
+K;marcin;nowak;nie boska komedia;x;spoleczny;wspip;-1;1915;2;2001;6;brak;59;
+K;marcin;nowak;nie boska komedia;x;spoleczny;wspip;-1;1915;2;2001;6;brak;59;
+K;marcin;nowak;nie boska komedia;x;spoleczny;wspip;-1;1915;2;2001;6;brak;59;
+C;NOWAK;NOWAK;nie boska komedia;do rzeczy;dramat;tygodnik;wspip;2;2001;3;brak;55;

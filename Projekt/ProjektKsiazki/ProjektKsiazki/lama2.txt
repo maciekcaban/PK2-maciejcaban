@@ -1,0 +1,8 @@
+C;jan;nowak;advance watering;farming_tutorials;tutorial;monthly;green_power;4;2012;0;brak;-1; 
+C;jan;nowak;advance grounding;farming_tutorials;tutorial;monthly;green_power;5;2012;0;brak;-1;
+C;jan;nowak;advance molding;farming_tutorials;tutorial;monthly;green_power;6;2012;0;brak;-1;
+
+M;x;Ryukishi07;Karin;Suzuragi;Onikakushi-hen 1;horror;thriller;Waneko;11;2015;12;2005;5;polecone;15;
+M;x;Ryukishi07;Karin;Suzuragi;Onikakushi-hen 2;horror;thriller;Waneko;11;2015;6;2006;5;polecone;15;
+M;x;Ryukishi07;Yoshiki;Tonogaia;Himatsubushi-hen 1;horror;thriller;Waneko;7;2016;8;2006;5;polecone;15;
+M;x;Ryukishi07;Yoshiki;Tonogaia;Himatsubushi-hen 2;horror;thriller;Waneko;7;2016;12;2006;5;polecone;15;

@@ -7,6 +7,8 @@ using namespace std;
 
 enum class priorytet { brak, niski, sredni, wysoki, bardzo_wysoki, obowiazkowy, nie_nadano };
 
+
+
 class Autor {
 public:
 	string imie;
@@ -163,3 +165,14 @@ public:
 
 
 Lista WczytajListeZPliku(Lista &L1, string nazwa_pliku);
+
+class Tpriorytet
+{
+	string typ_priorytetu;
+	//enum class T_priorytet { brak, niski, sredni, wysoki, bardzo_wysoki, obowiazkowy, nie_nadano };
+
+	bool operator==(Tpriorytet);
+	int operator()();
+	string &operator[](string);
+
+};

@@ -159,6 +159,7 @@
     <ClCompile Include="Lista.cpp" />
     <ClCompile Include="menu.cpp" />
     <ClCompile Include="Pismo.cpp" />
+    <ClCompile Include="Priorytet.cpp" />
     <ClCompile Include="ProjektKsiazki.cpp" />
   </ItemGroup>
   <ItemGroup>
